@@ -1,8 +1,9 @@
-**This project has moved.**
+**MOVED**
 
-The active version is now at:
-https://github.com/pctowah-eng/hop-valley-staff-calendar
+This project has been moved to the pctowah-eng account.
 
-Live site: https://pctowah-eng.github.io/hop-valley-staff-calendar/
+Active repository: https://github.com/pctowah-eng/hop-valley-staff-calendar
 
-Please use the new location.
+Live calendar: https://pctowah-eng.github.io/hop-valley-staff-calendar/
+
+Please use the new location for the QR code and all future updates.
