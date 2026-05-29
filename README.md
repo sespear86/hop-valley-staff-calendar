@@ -1,21 +1,8 @@
-## Hop Valley Brewing - Springfield Staff Calendar
+**This project has moved.**
 
-**980 Kruse Way, Springfield, OR 97477**
+The active version is now at:
+https://github.com/pctowah-eng/hop-valley-staff-calendar
 
-Live employee busyness forecast calendar for June 2026.
+Live site: https://pctowah-eng.github.io/hop-valley-staff-calendar/
 
-### Live Site
-
-The calendar is available at:
-
-**https://sespear86.github.io/hop-valley-staff-calendar/**
-
-Scan the QR code (generated from the URL above) for instant access on any phone.
-
-### Features
-- Lunch (11-4) and Evening (4-9) shifts
-- Research-backed busyness scores (sports, events, weather, paydays, local traffic)
-- Edit Mode and smart Audit button for updates
-- Fully self-contained (works offline once loaded)
-
-This site is served via GitHub Pages from the main branch.
+Please use the new location.
